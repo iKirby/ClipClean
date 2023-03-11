@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">ClipClean</string>
+    <string name="cleaned">Clipboard cleaned</string>
+</resources>
